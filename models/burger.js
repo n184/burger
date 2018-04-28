@@ -1,5 +1,5 @@
 var orm = require("../config/orm.js");
-
+//comments for comments sake
 var burgers = {
 
     all: function(cb) {
